@@ -1,4 +1,4 @@
 hello.
-not nice to meet you
-how are you? i dont care.
-i amnot doing fine.
+nice to meet you
+how are you? i do care.
+i am doing fine.
